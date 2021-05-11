@@ -29,7 +29,7 @@
         /// </summary>
         public string[] Messages = new string[]
         {
-            "This is an automated message, these and other settings can be edited in Data/Mods/AutoMessages.json :)"
+            "This is an automated message, these and other settings can be edited in the mpk under Scripts/AutoMessages/AutoMessagesSettings.cs :)"
         };
     }
 }
