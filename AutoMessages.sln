@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMessages", "AutoMessages.csproj", "{4D8A9B62-C621-4467-A17E-99E1DAB1AED6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtomicTorch.CBND.CoreMod", "..\Core.cpk\AtomicTorch.CBND.CoreMod.csproj", "{62A898DA-5A2A-4503-8810-4A05D34939F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_LibsAsProjects|Any CPU = Debug_LibsAsProjects|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D8A9B62-C621-4467-A17E-99E1DAB1AED6}.Debug_LibsAsProjects|Any CPU.ActiveCfg = Debug_LibsAsProjects|Any CPU
+		{4D8A9B62-C621-4467-A17E-99E1DAB1AED6}.Debug_LibsAsProjects|Any CPU.Build.0 = Debug_LibsAsProjects|Any CPU
+		{4D8A9B62-C621-4467-A17E-99E1DAB1AED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8A9B62-C621-4467-A17E-99E1DAB1AED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A898DA-5A2A-4503-8810-4A05D34939F0}.Debug_LibsAsProjects|Any CPU.ActiveCfg = Debug_LibsAsProjects|Any CPU
+		{62A898DA-5A2A-4503-8810-4A05D34939F0}.Debug_LibsAsProjects|Any CPU.Build.0 = Debug_LibsAsProjects|Any CPU
+		{62A898DA-5A2A-4503-8810-4A05D34939F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A898DA-5A2A-4503-8810-4A05D34939F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {607FEABF-B60B-4B84-B48F-2EF3543ACDFF}
+	EndGlobalSection
+EndGlobal

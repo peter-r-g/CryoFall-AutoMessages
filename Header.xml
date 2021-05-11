@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+  <game>CryoFall</game>
+  <id>AutoMessages</id>
+  <title>Auto Messages</title>
+  <author>gunman435</author>
+  <description>Automated messages for servers.</description>
+  <version>1.0.0</version>
+  <updated>05.11.2021</updated>
+  <modtype>1</modtype>
+</root>
